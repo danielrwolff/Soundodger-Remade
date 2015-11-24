@@ -8,3 +8,5 @@ This project was made using Processing 2.2.1.
 The download for processing can be found here: https://processing.org/download/?processing
 Note: The project should still work on Processing 3.0.
 
+This project can be run in Java mode or Javascript mode.
+
